@@ -1,7 +1,7 @@
 import cv2
 
 # Load and resize image
-img = cv2.imread("cam1.jpg")
+img = cv2.imread("Cam1.jpg")
 TARGET_WIDTH, TARGET_HEIGHT = 640, 480
 img = cv2.resize(img, (TARGET_WIDTH, TARGET_HEIGHT))
 clone = img.copy()
