@@ -82,6 +82,6 @@ Format: `x1,y1,x2,y2`
 2. Run `Trip_Wire.py` and draw a line across a path
 3. Use the generated coordinates in your computer vision pipeline
 
-## Contributing
+## LICENSE
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
